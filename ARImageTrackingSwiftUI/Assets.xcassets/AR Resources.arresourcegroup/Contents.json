@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "A22.arreferenceimage"
+    },
+    {
+      "filename" : "flower.arreferenceimage"
+    },
+    {
+      "filename" : "Plane.arreferenceimage"
+    }
+  ]
+}
